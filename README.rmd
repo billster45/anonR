@@ -1,0 +1,10 @@
+---
+title: "Anonymise values in columns of a data frame"
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+always_allow_html: yes
+---
+
+Building a simple R package by following this guide: https://corinnovation.com/2019/04/26/creating-an-r-package/
